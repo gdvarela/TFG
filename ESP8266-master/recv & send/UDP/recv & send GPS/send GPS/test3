@@ -1,0 +1,17 @@
+Showing NSI table entries:
+
+Index: 0, ID: 2135
+Source: 04:e5:48:ce:3c:8a , Board Type: OBU
+Latitude: 40.634516 degree, Longitude: -8.659416 degree
+Speed: 1 Km/h, Elevation: 212316454.4 m, Heading: 316.2 degree
+Active Service PSID: 81-06
+Active Service type: Provider, RSSI: 44
+Last NSI received (ms): 60
+
+Index: 0, ID: 2136
+Source: 04:e5:48:ce:3c:8a , Board Type: OBU
+Latitude: 42.634516 degree, Longitude: -9.659416 degree
+Speed:  2 Km/h, Elevation: 222316454.5 m, Heading: 309.2 degree
+Active Service PSID: 81-06
+Active Service type: Provider, RSSI: 43
+Last NSI received (ms): 90
